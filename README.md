@@ -24,7 +24,7 @@ npx project-shield scan ./my-project
 
 The checkout displays **Clouvel**, the Polar publisher account for Project Shield. Applicable taxes are calculated by Polar from the buyer's billing address and shown before payment.
 
-[Product](https://shield.codemeant.dev) · **[Get Pro](https://buy.polar.sh/polar_cl_eiXDc9bwtIpz99P8tjt3K1NZgS8oJN9WCwYIO1pgBDt)** · [npm](https://www.npmjs.com/package/project-shield) · [한국어 안내](https://github.com/Whitening-Sinabro/project-shield-docs/blob/master/README.ko.md)
+[Product](https://shield.codemeant.dev) · **[Get Pro](https://buy.polar.sh/polar_cl_eiXDc9bwtIpz99P8tjt3K1NZgS8oJN9WCwYIO1pgBDt)** · [npm](https://www.npmjs.com/package/project-shield) · [한국어 빠른 안내](https://gist.github.com/Whitening-Sinabro/1da1e61ebf2942e0bbd32bb8edd2e335) · [한국어 문서](https://github.com/Whitening-Sinabro/project-shield-docs/blob/master/README.ko.md)
 
 ## Webhook/API automation error diagnosis and correction
 
