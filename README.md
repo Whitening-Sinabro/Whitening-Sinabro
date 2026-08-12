@@ -22,7 +22,9 @@ npx project-shield scan ./my-project
 - full fix-it guides with code examples and references
 - automated license-key delivery through Polar
 
-[Product](https://shield.codemeant.dev) · **[Get Pro](https://buy.polar.sh/polar_cl_eiXDc9bwtIpz99P8tjt3K1NZgS8oJN9WCwYIO1pgBDt)** · [npm](https://www.npmjs.com/package/project-shield)
+The checkout displays **Clouvel**, the Polar publisher account for Project Shield. Applicable taxes are calculated by Polar from the buyer's billing address and shown before payment.
+
+[Product](https://shield.codemeant.dev) · **[Get Pro](https://buy.polar.sh/polar_cl_eiXDc9bwtIpz99P8tjt3K1NZgS8oJN9WCwYIO1pgBDt)** · [npm](https://www.npmjs.com/package/project-shield) · [한국어 안내](https://github.com/Whitening-Sinabro/project-shield-docs/blob/master/README.ko.md)
 
 ## Webhook/API automation error diagnosis and correction
 
