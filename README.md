@@ -2,11 +2,11 @@
 
 Building reliable AI-assisted systems in public.
 
-## Project Shield
+## Project Shield — review before you run or hand off an AI project
 
 [![npm version](https://img.shields.io/npm/v/project-shield)](https://www.npmjs.com/package/project-shield)
 
-**Security scanner for AI coders and MCP users.** Project Shield detects leaked secrets, PII, insecure MCP configuration, prompt injection, and risky Claude Code hooks. Version 2.0.0 runs locally and is available on npm.
+Cloning an AI-generated repository is easy. The harder question is what you are trusting when you run it. Project Shield checks for leaked secrets, PII, insecure MCP configuration, prompt injection, and risky Claude Code hooks before execution. Version 2.0.0 runs locally and is available on npm.
 
 Try the free scan first:
 
@@ -14,7 +14,9 @@ Try the free scan first:
 npx project-shield scan ./my-project
 ```
 
-### Project Shield Pro — USD 29/month
+### When Pro is useful — USD 29/month
+
+Free is enough to try the scanner. Pro is for developers and small teams that need complete remediation detail or reviewable evidence before a client or team handoff.
 
 - 50 scans per month
 - Evidence Pack with integrity-sealed JSON and PDF reports
